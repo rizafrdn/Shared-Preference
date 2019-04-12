@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_username" type="id">username</item>
+    <item name="text_password" type="id">password</item>
+    <item name="button_login" type="id">login</item>
+    <item name="link_register" type="id">register</item>
+    <item name="rv_notes" type="id">notes</item>
+</resources>
